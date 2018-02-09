@@ -1,0 +1,2 @@
+# testone
+npm publish test
